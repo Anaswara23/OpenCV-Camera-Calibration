@@ -69,7 +69,7 @@ This section applies the validated methodology to determine the 3D geographic lo
 
 1.  **Clone the repository:**
     ```bash
-    git clone [YOUR_REPOSITORY_URL]
+    git clone [https://github.com/Anaswara23/OpenCV-Camera-Calibration]
     ```
 2.  **Install dependencies:**
     ```bash
