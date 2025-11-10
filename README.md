@@ -4,7 +4,7 @@ This repository contains the Python notebook and associated files for a computer
 
 A key differentiator of this project is its two-part structure: first, a rigorous uncertainty analysis using synthetic data, and second, a practical application to find the location of live webcams.
 
-###  companion Blog Post
+###  Companion Blog Post
 
 For a detailed narrative, insights into the methodology, and a full discussion of the project's challenges and findings, please read the companion article on Medium:
 
